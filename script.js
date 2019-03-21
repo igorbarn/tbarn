@@ -6,7 +6,10 @@ function test1 () {
 }
 
 function test2 () {
-	akert('Проба 2');
+	alert('Проба 2');
 }
 
+function test3 () {
+	alert('Проба 3');
+}
 
