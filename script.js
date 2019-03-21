@@ -5,6 +5,8 @@ function test1 () {
 	alert('Проба 1');
 }
 
-functiom test2 () {
+function test2 () {
 	akert('Проба 2');
 }
+
+
