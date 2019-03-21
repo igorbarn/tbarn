@@ -2,5 +2,5 @@
 // пользователь: user1
 
 function test1 () {
-	alert('Проба');
+	alert('Проба 1');
 }
