@@ -13,3 +13,7 @@ function test3 () {
 	alert('Проба 3');
 }
 
+function test4 () {
+	alert('Date');
+}
+
